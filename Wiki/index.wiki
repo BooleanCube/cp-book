@@ -1,0 +1,34 @@
+= Competitive Programming Book =
+====== By BooleanCube ======
+
+== Guide ==
+[[Guide/Syntax|Syntax Guide]]
+
+[[https://github.com/vimwiki/vimwiki|Vimwiki Documentation]]
+
+[[Guide/Nagivation|CPBook File Navigation]]
+
+== Algorithms ==
+- [ ] BFS
+- [ ] DFS
+- [ ] Binary Search Tree
+
+== Data Structures ==
+[[datastructures/Java|Java]]
+[[datastructures/cpp|C++]]
+[[datastructures/py|Python3]]
+
+
+== Concepts ==
+- [ ] Casting
+- [ ] Recursion
+- [ ] Dynamic Programming (DP)
+
+
+== Competitions ==
+- [ ] Advice Page
+
+
+----
+[[Footer/About|About]] [[Footer/Socials|Socials]]
+

@@ -1,0 +1,16 @@
+= Java Data Structures =
+- [ ] TreeSet
+- [ ] ArrayList
+- [ ] HashSet
+- [ ] HashMap
+- [ ] Collections
+- [ ] Queue
+- [ ] Stack
+- [ ] LinkedList
+- [ ] Arrays
+- [ ] String
+- [ ] Integer
+- [ ] Boolean
+- [ ] Character
+- [ ] Long
+- [ ] Double

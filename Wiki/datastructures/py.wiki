@@ -1,0 +1,6 @@
+= Python Data Structures =
+- [ ] lists
+- [ ] sets
+- [ ] string
+- [ ] int
+- [ ] turples

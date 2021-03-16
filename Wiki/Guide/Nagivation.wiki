@@ -1,0 +1,14 @@
+= Navigation In CPBook =
+Navigating through files online in the CPBook is actually very hard.
+
+There will be no go back button on each page or no button leading to the home page, you will just ahve to use the undo and redo buttons on your browser to navigate between files online. Middle-clicking on a button will open it in a new tab if that helps accessing the files any easier.
+
+Downloading the CPBook would be easier to navigate between files quickly.
+This way you can just go through the holders and open the HTML file you want.
+
+
+
+TODO
+
+- [ ] Find out a way to navigate between files even easier.
+

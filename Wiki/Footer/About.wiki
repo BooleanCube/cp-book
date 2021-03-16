@@ -1,0 +1,28 @@
+= ABOUT =
+
+Hello There!
+I am *BooleanCube*.
+
+This is a book I am writing more like a template or a study book for competitive programming.
+Something like a resource for people to use and learn, revise and last-second study as well right before a competition as well.
+
+I am a student who is a bot dev, game dev, and also a competitive programmer as a hobby.
+I am mainly fluent in Java, C#, Python, C++, and I am fairly fluent in Lua, HTML, CSS, and Node.JS
+
+I have been to several competitive programming competitions before such as I have been to HSPT at UCF, Cornell, Stetson University. I have also attended a bunch of USACO competitions (currently hard-stuck bronze Sadge) and also a bunch of Game Jams and Hackathons. I am also probably working on one of my projects for bot-dev or game-dev right now. I stream it on twitch some weekends.
+
+This book was written using the wiki syntax and a neovim plugin called vimwiki. It is a great tool for note-taking or writing books even. Personally, I prefer Notion for note-taking and vimwiki for writing books and storing informations and notes for my books. Vimwiki has a feature where I can turn all my wiki files into HTML files and view them on the browser. I recommend using vimwiki, very useful in my case.
+
+====== Q&A ======
+- Other information about me?
+
+I am a swimmer, black belt, currently learning sparring and wants to compete, game dev, bot dev, math enthusiast, astronomy enthusiast, science enthusiast, not much of a gamer but plays games once in a while, and an environmentalist. I used to love to play soccer but I lost practice and quit. Learning how to compose music and how to 3d model. Striving to be a decent tuber/streamer. im a busy man o-o
+
+Also, soemthing you need to know about me is htat I am bEst freinds wiht typos and incorect spellings and I like cubes.
+
+- Any other inquiries?
+
+Just create another Github Issue inquiry and I will answer ASAP. However, if you want a faster response then join the discord server linked below and ask in *#help*:
+
+[[https://discord.gg/3ZDpPyR|BooleanCube Discord Server]]
+

@@ -1,0 +1,51 @@
+Entire README.md file documentation for vimwiki on their [[https://vimwiki.github.io/|website]]
+----
+Full Vimwiki basic syntax documentation:
+- [[https://en.wikipedia.org/wiki/Help:Wikitext|Wiki Documentation]]
+- [[https://github.com/BrodieRobertson/vimwiki/blob/master/Syntax.wiki|article]]
+- [[https://youtu.be/CgjslxZM_EI|video]]
+----
+==Syntax==
+Vimwiki has a lot of cool syntax tools used for note-taking such as links, lists, tables, calendars and even schedules. Some I am yet to explore. But the second article shows a very broad and detailed overview of the basic Vimwiki Syntax.
+
+===Basic Syntax===
+*BOLD*
+_ITALICS_
+[[https://github.com/BooleanCube/|links (github)]]
+| table1 | table2 |                  | table 3 |      |
+|        |        | table 6          | table 9 |      |
+|        |        |                  | tabl4   |      |
+|        |        |                  |         | bruh |
+|        |        | darn cool innit? |         |      |
+*Keywords*: TODO, DONE, STARTED, FIXME, FIXED, XXX
+=====Anchors=====
+Accessing other wiki files in the text bascailly easier navigation through the wiki files in the book
+Could also do External files and other links too. With anchors you can even access stuff like headers. You can even jump to headers in other files.
+[.[file#anchorheader]]
+you can even do mail links with "m.ailto:mail"
+
+
+You can even do comments:
+(Can't view on HTML)
+%%hello this is a comment
+
+===Code Blocks===
+Three Bracket Characters, the language name (optional), code, the Three Bracket Characters
+Example:
+{{{java
+import java.io.*:
+import java.util.*;
+
+public class cube {
+	public static void main(String[] args) throws IOException {
+		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+		String input = bf.readLine();
+		System.out.println(input.equalsIgnoreCase("cube") ? "cool" : "ok buddy");
+	}
+}
+}}}
+
+
+
+Thats the basic syntax guide!
+
