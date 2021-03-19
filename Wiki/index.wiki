@@ -8,25 +8,15 @@
 
 [[Guide/Nagivation|CPBook File Navigation]]
 
-== Algorithms ==
-- [ ] BFS
-- [ ] DFS
-- [ ] Binary Search Tree
+== Competitive Programming ==
+[[algorithmspage|Algorithms]]
 
-== Data Structures ==
-[[datastructures/Java|Java]]
-[[datastructures/cpp|C++]]
-[[datastructures/py|Python3]]
+[[datastructurespage|Data Structures]]
 
-
-== Concepts ==
-- [ ] Casting
-- [ ] Recursion
-- [ ] Dynamic Programming (DP)
-
+[[concepts|Concepts]]
 
 == Competitions ==
-- [ ] Advice Page
+[[comps/Advice|Last Second Advice]]
 
 
 ----

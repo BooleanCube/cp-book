@@ -1,4 +1,4 @@
-= ABOUT =
+= About =
 
 Hello There!
 I am *BooleanCube*.

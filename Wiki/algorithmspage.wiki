@@ -1,0 +1,7 @@
+= Algorithms =
+- [ ] BFS
+- [ ] DFS
+- [ ] BST
+- [ ] MST
+- [ ] A*
+- [ ] 

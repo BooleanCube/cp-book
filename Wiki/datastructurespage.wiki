@@ -1,0 +1,7 @@
+= Data Structures =
+[[datastructures/Java|Java]]
+
+[[datastructures/py|Python3]]
+
+[[datastructures/cpp|C++]]
+

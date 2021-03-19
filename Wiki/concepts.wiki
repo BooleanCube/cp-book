@@ -1,0 +1,6 @@
+= Concepts =
+- [ ] Casting
+- [ ] End of File (EOF)
+- [ ] Recursion
+- [ ] Dynamic Programming (DP)
+
