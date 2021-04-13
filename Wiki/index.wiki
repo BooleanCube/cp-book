@@ -1,6 +1,3 @@
-= Competitive Programming Book =
-====== By BooleanCube ======
-
 == Guide ==
 [[Guide/Syntax|Syntax Guide]]
 

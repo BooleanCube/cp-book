@@ -1,2 +1,4 @@
 = Last Second Competition Advice =
 - Don't play around too much with logic, keep it simple and don't make it confusing.
+- Don't confuse yourself with unfamiliar data structures during competition.
+- Don't worry too much about abstraction. If you can, use a String instead of a collection or array for abstraction.
