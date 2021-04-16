@@ -1,7 +1,7 @@
 == Guide ==
 [[Guide/Syntax.wiki|Syntax Guide]]
 
-[[https://github.com/vimwiki/vimwiki%7CVimwiki Documentation]]
+[[https://github.com/vimwiki/vimwiki|Vimwiki Documentation]]
 
 [[Guide/Nagivation.wiki|CPBook File Navigation]]
 
