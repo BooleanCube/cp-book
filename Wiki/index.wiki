@@ -17,5 +17,5 @@
 
 
 ----
-[[Footer/About|About]] [[Footer/Socials|Socials]]
+[[/Footer/About|About]] [[Footer/Socials|Socials]]
 
