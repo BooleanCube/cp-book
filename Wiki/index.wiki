@@ -1,21 +1,21 @@
 == Guide ==
-[[Guide/Syntax|Syntax Guide]]
+[[Guide/Syntax.wiki|Syntax Guide]]
 
-[[https://github.com/vimwiki/vimwiki|Vimwiki Documentation]]
+[[https://github.com/vimwiki/vimwiki%7CVimwiki Documentation]]
 
-[[Guide/Nagivation|CPBook File Navigation]]
+[[Guide/Nagivation.wiki|CPBook File Navigation]]
 
 == Competitive Programming ==
-[[algorithmspage|Algorithms]]
+[[./algorithmspage.wiki|Algorithms]]
 
-[[datastructurespage|Data Structures]]
+[[./datastructurespage.wiki|Data Structures]]
 
-[[concepts|Concepts]]
+[[./concepts.wiki|Concepts]]
 
 == Competitions ==
-[[comps/Advice|Last Second Advice]]
+[[comps/Advice.wiki|Last Second Advice]]
 
 
 ----
-[[/Footer/About|About]] [[Footer/Socials|Socials]]
+[[Footer/About.wiki|About]] [[Footer/Socials.wiki|Socials]]
 
