@@ -2,5 +2,5 @@
 - [ ] lists
 - [ ] sets
 - [ ] string
-- [ ] int
-- [ ] turples
+- [ ] tuples
+- [ ] iterator
