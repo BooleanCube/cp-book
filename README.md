@@ -1,3 +1,6 @@
+# Disclaimer
+This is an old and unmaintained book. For an updated hackpack go here: https://github.com/BooleanCube/hackpack
+
 # **C**ompetitive **P**rogramming Book
 This is a book written by **BooleanCube** for Competitive Programming!
 
